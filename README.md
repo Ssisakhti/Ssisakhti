@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+Once wrote Kotlin for money.
+Wrote C# in Unity for fun.
+Wrote OKRs as a PM for survival.
+Now I just prompt Claude and ship products for love.
+
 <!--
 **Ssisakhti/Ssisakhti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
