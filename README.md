@@ -5,9 +5,9 @@
 
 <p align="center">
 
-<img src="https://icongr.am/feather/briefcase.svg?size=18&color=000000" /> Once wrote Kotlin for money.
-<img src="https://icongr.am/feather/play-circle.svg?size=18&color=000000" /> Wrote C# in Unity for fun.
-<img src="https://icongr.am/feather/target.svg?size=18&color=000000" /> Wrote OKRs as a PM for survival.
+<img src="https://icongr.am/feather/briefcase.svg?size=18&color=000000" /> Once wrote Kotlin for money.<br>
+<img src="https://icongr.am/feather/play-circle.svg?size=18&color=000000" /> Wrote C# in Unity for fun.<br>
+<img src="https://icongr.am/feather/target.svg?size=18&color=000000" /> Wrote OKRs as a PM for survival.<br>
 <img src="https://icongr.am/feather/briefcase.svg?size=18&color=000000" /> Now I just prompt Claude and ship products for love.
 </p>
 
