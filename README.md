@@ -115,7 +115,7 @@ If you’re working on:
 
 - 💼 LinkedIn: [Saeid-Sisakhti](https://www.linkedin.com/in/saeid-sisakhti/)
 - 🐦 Twitter / X: [@Ssisakhti](https://x.com/Ssisakhti)
-- 📝 Virgool / Blog: [your-blog-link](https://virgool.io/@Ssisakhti)
+- 📝 Virgool / Blog: [My Persian Blog](https://virgool.io/@Ssisakhti)
 
 ---
 
